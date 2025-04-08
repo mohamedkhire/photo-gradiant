@@ -85971,7 +85971,7 @@
                       href: "https://mohamedkhire.vercel.app/",
                       children: "Made with 🖤 by Mohamed Khire",
                     }),
-                    (0, a.jsx)("div", { children: "\xa9 2024" }),
+                    (0, a.jsx)("div", { children: "\xa9 2025" }),
                   ],
                 }),
               ],
